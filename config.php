@@ -16,4 +16,6 @@ $sports = 'sports'; //30 - 120 minutes
 $shortdocumentariesfolder = 'documentaries-short'; //20-60 minutes
 
 $cats = array($newsfolder,$adsfolder,$promofolder,$fillinisfolder,$moviesfolder,$episodesfolder,$kidsmoviesfolder,$kidsshortsfolder,$documentariesfolder,$musicclipsfolder,$shortmoviesfolder,$telemarketing,$sports,$shortdocumentariesfolder);
+
+$catstimes = array(6,1000,1000,1000,4,4,2,1000,2,1000,4,1,2,4);
  ?>
